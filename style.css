@@ -30,7 +30,7 @@ html{
     cursor:pointer;
     transition: ease 0.7s;  
     border-radius: 5px;
-    
+    color:black    
 }
 
 .btn:hover {
