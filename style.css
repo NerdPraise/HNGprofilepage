@@ -215,7 +215,6 @@ li a {
 .parrimg {
     background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),url('images/parr.jpg') no-repeat center; 
     background-size: cover; 
-    height:300px;
     background-attachment: fixed;
     margin:80px auto;
 }
@@ -298,4 +297,9 @@ textarea {
 
 .orange {
     border-bottom: 1.5px solid orange;
+}
+
+.blurbtext {
+    font-weight:bold;
+    font-size:18px;
 }
